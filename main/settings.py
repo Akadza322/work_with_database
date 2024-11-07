@@ -54,7 +54,7 @@ DATABASES = {
         'NAME': 'import_phones',
         'HOST': 'localhost',
         'USER': 'postgres',
-        'PASSWORD': 'GreedIsGood131181',
+        'PASSWORD': '*********',
     }
 }
 
